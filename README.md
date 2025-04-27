@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi there, I'm Ramachandraprasad Sharma M K! 👋
 
-<!--
-**ramachandraprasad77/ramachandraprasad77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+From a small village named Paramba, located 1.5 km away from Poinachi, Kasaragod, Kerala.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate MERN Stack Developer (MongoDB, Express.js, React.js, Node.js).
+
+I love building web applications that are simple, beautiful, and useful.
+
+
+Tech Stack
+
+Projects
+
+CastByPrasad - Mini Vlog App
+A MERN stack-based mini blog/vlog platform for sharing short posts.
+
+
+> More projects coming soon... Stay tuned!
+
+
+
+Let's Connect
+
+LinkedIn (Ramachandraprasad Sharma M K)
+
+Portfolio Website (Coming soon!)
